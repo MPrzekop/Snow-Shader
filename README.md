@@ -28,6 +28,7 @@ There is a demo package containing scene with the snowman and shaders/materials 
 <p align="center">
   <img src="https://github.com/MPrzekop/Snow-Shader/blob/Images/Images/Ball-Basic.png" width="20%" title="basic sphere with snow material">
   <img src="https://github.com/MPrzekop/Snow-Shader/blob/Images/Images/Blank-Glitter-and-orange-SSS.png" width="20%" title="sphere without textures with glitter and SSS">
+  <img src="https://github.com/MPrzekop/Snow-Shader/blob/Images/Images/ball-no-SSS-and-Full-Glitter.png" width="20%" title="sphere with glitter and no SSS">
    <img src="https://github.com/MPrzekop/Snow-Shader/blob/Images/Images/SnowHelper.png" width="20%" title="ASE snow helper function">
   <img src="https://github.com/MPrzekop/Snow-Shader/blob/Images/Images/SnowShader.png" width="20%" title="ASE snow shader">
 </p>
