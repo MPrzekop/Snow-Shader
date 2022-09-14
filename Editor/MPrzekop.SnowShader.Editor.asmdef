@@ -1,8 +1,12 @@
 {
-    "name": "Organization.Package",
+    "name": "MPrzekop.SnowShader.Editor",
     "rootNamespace": "",
-    "references": [],
-    "includePlatforms": [],
+    "references": [
+        "MPrzekop.SnowShader"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
