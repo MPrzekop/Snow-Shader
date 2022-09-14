@@ -31,4 +31,5 @@ There is a demo package containing scene with the snowman and shaders/materials 
   <img src="https://github.com/MPrzekop/Snow-Shader/blob/Images/Images/ball-no-SSS-and-Full-Glitter.png" width="20%" title="sphere with glitter and no SSS">
    <img src="https://github.com/MPrzekop/Snow-Shader/blob/Images/Images/SnowHelper.png" width="20%" title="ASE snow helper function">
   <img src="https://github.com/MPrzekop/Snow-Shader/blob/Images/Images/SnowShader.png" width="20%" title="ASE snow shader">
+   <img src="https://img.itch.zone/aW1hZ2UvMTYwMDAzMS85Mzk3NzM0LnBuZw==/original/qrywk7.png" width="20%" title="Snowperson builder screenshot">
 </p>
