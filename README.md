@@ -3,8 +3,7 @@
  Basic Snow shader for Built-in pipeline, from a gamejam game - [Snowperson Builder](https://przekop.itch.io/snowman-builder).
  <p align="center">
   <img src="https://github.com/MPrzekop/Snow-Shader/blob/Images/Images/MainAnimation.gif" width="50%" title="rotating view of a snowman">
-  <img src="https://github.com/MPrzekop/Snow-Shader/blob/Images/Images/qrywk7.png" width="50%" title="Snowperson builder screenshot">
-</p>
+ </p>
 
 ## Features
 * Customisable glitter (size, count, color, source texture, animation, lighting)
@@ -33,5 +32,4 @@ There is a demo package containing scene with the snowman and shaders/materials 
    <img src="https://github.com/MPrzekop/Snow-Shader/blob/Images/Images/SnowHelper.png" width="20%" title="ASE snow helper function">
   <img src="https://github.com/MPrzekop/Snow-Shader/blob/Images/Images/SnowShader.png" width="20%" title="ASE snow shader">
    <img src="https://github.com/MPrzekop/Snow-Shader/blob/Images/Images/qrywk7.png" width="20%" title="Snowperson builder screenshot">
-  <img src="https://github.com/MPrzekop/Snow-Shader/blob/Images/Images/MainAnimation.gif" width="20%" title="rotating view of a snowman">
 </p>
