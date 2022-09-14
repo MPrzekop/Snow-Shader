@@ -7,7 +7,7 @@
 
 ## Features
 * Customisable glitter (size, count, color, source texture, animation, lighting)
-* Customisable SSS (intensity, color, interaction with light)
+* Customisable spherical SSS approximation (intensity, color, interaction with light)
 * ASE helper function containing split SSS and glitter output
 
 ## Instalation
