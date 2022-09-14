@@ -16,6 +16,10 @@
 Go to `Window -> Package Manager` and add from git [URL](https://docs.unity3d.com/Manual/upm-ui-giturl.html) using this URL:
 `https://github.com/MPrzekop/Snow-Shader.git`
 
+<p align="center">
+  <img src="https://github.com/MPrzekop/Snow-Shader/blob/Images/Images/Editor.png" width="50%" title="rotating view of a snowman">
+ </p>
+
 ### Demo resources
 
 There is a demo package containing scene with the snowman and shaders/materials for a simple 'dirty plastic' look. 
