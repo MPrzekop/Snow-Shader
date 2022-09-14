@@ -1,6 +1,6 @@
 # Snow Shader
 
- Basic Snow shader for Built-in pipeline, from a gamejam game - [Snowperson Builder](https://przekop.itch.io/snowman-builder).
+ Basic Snow shader for Unity's built-in pipeline, from a gamejam game - [Snowperson Builder](https://przekop.itch.io/snowman-builder).
  <p align="center">
   <img src="https://github.com/MPrzekop/Snow-Shader/blob/Images/Images/MainAnimation.gif" width="50%" title="rotating view of a snowman">
  </p>
